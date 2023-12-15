@@ -14,6 +14,12 @@ Repositorio de documentación sobre el Portal de Tramites para Chuquisaca ingeni
 | Miguel Angel Quenta       | Full stack     |
 | Adrián Andrés Sánchez     | Backend        | 
 
+# Herramientas usadas
+
+Durante el desarrollo del proyecto, se emplearon diversas herramientas para facilitar la planificación y la implementación. Entre ellas se destacan:
+
+- **Trello:** Para la fase de implementación, gestionamos y organizamos las tareas con Trello.
+- **Asana:** Utilizamos Asana para la creación detallada de planes y seguimiento de tareas.
 
 # GUIA DE USO PARA EL PORTAL DE TRAMITES
 
