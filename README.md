@@ -11,7 +11,7 @@ Repositorio de documentación sobre el Portal de Tramites para Chuquisaca ingeni
 | Ernesto Juarez            | Product Owner  |
 | Diego Marcelo Ledesma     | Q.A            |
 | Mariana del Arroyo        | Frontend       |
-| Miguel Angel Quenta       | Frontend       |
+| Miguel Angel Quenta       | Full stack     |
 | Adrián Andrés Sánchez     | Backend        | 
 
 # Herramientas usadas
